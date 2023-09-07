@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Basics Codelab"
 include(":app")
- 
